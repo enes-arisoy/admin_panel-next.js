@@ -1,0 +1,393 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S27+",
+      "brand": "Samsung",
+      "price": 4999.98,
+      "stock": 30,
+      "rating": 3.6,
+      "reviews_count": 0,
+      "category": "Electronics",
+      "image_url": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2024/09/Samsung-Galaxy-S25-Plus.png?fit=1200%2C675&ssl=1",
+      "description": "6.6-inch display, Snapdragon 8 Gen 2, triple 50MP camera system."
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5 Headphones",
+      "category": "Accessories",
+      "price": 749.99,
+      "stock": 40,
+      "description": "Industry-leading noise cancellation, 30 hours battery life.",
+      "image_url": "https://cdn.beymen.com/mnresize/505/704/productimages/vedm5zmf.0oe_MP_1f747471-3ce1-4233-a7b7-94a02994d104_1_55480535331683314535229061955_802.jpg",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "brand": "Sony"
+    },
+    {
+      "id": "5",
+      "name": "Adidas Ultraboost 22",
+      "category": "Shoes",
+      "price": 180,
+      "stock": 35,
+      "description": "Primeknit upper with Boost midsole for maximum energy return.",
+      "image_url": "https://cdn.fleetfeet.com/a:1.3333333333333-f:cover-w:1200/assets/adidasultraboost.jpeg?s=ae640b72",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "brand": "Adidas"
+    },
+    {
+      "id": "6",
+      "name": "Dyson V11 Vacuum Cleaner",
+      "category": "Home",
+      "price": 599.99,
+      "stock": 15,
+      "description": "Powerful suction, LCD screen, up to 60 minutes of run time.",
+      "image_url": "https://i5.walmartimages.com/seo/Dyson-V11-Extra-Cordless-Vacuum-Cleaner-Iron-New_39f381d3-b4f7-49fa-904c-12c3e61587cc.d655e190dfe4ee597593e8c3dd70e5c5.jpeg",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "brand": "Dyson"
+    },
+    {
+      "id": "7",
+      "name": "LG 65-Inch 6K Smart TV",
+      "category": "Electronics",
+      "price": 999.98,
+      "stock": 20,
+      "description": "65-inch OLED display, webOS, Dolby Atmos sound.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZvou5SlzprWZKrP0ZeTcCTXeAxX-YkEoYg&s",
+      "rating": 4.7,
+      "reviews_count": 0,
+      "brand": "LG"
+    },
+    {
+      "id": "43ae",
+      "name": "Macbook M3",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1300,
+      "stock": 15,
+      "description": "The apple m4 is the new...",
+      "image_url": "https://m.media-amazon.com/images/I/719C6bJv8jL.jpg",
+      "rating": 4.1,
+      "reviews_count": 67
+    },
+    {
+      "id": "fdba",
+      "name": "Airpods Pro 2",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 8000,
+      "stock": 26,
+      "description": "2 kata kadar daha fazla Aktif Gürültü Engelleme.1 Gürültü denetimini bulunduğunuz ortama göre ayarlayan Adaptif Ses.2 Sizi çevreleyen büyüleyici bir deneyim için Kişiselleştirilmiş Uzamsal Ses. Ve yüksek seslere maruz kalma derecenizi en aza indirgemenin akıllı yolları.",
+      "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FV1_FMT_WHH?wid=752&hei=636&fmt=jpeg&qlt=90&.v=1725492498882",
+      "rating": 4.5,
+      "reviews_count": 40
+    },
+    {
+      "id": "0998",
+      "name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "price": 56000,
+      "stock": 65,
+      "rating": 4,
+      "reviews_count": 0,
+      "category": "Electronics",
+      "image_url": "https://images.samsung.com/tr/smartphones/galaxy-s25-ultra/buy/product_color_black_MO.png?imbypass=true",
+      "description": "bu telefon oldukça...."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ahmet Yılmaz",
+      "email": "ahmet.yilmaz@example.com",
+      "password": "hashed_password_1",
+      "address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "phone": "+90 555 123 4567",
+      "orders": [
+        {
+          "order_id": 1001,
+          "product_id": 1,
+          "quantity": 1,
+          "total_price": 1299.99,
+          "order_date": "2024-09-10"
+        },
+        {
+          "order_id": 1002,
+          "product_id": 4,
+          "quantity": 2,
+          "total_price": 299.98,
+          "order_date": "2024-08-15"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Elif Demir",
+      "email": "elif.demir@example.com",
+      "password": "hashed_password_2",
+      "address": {
+        "street": "Cumhuriyet Mah. 120. Sok. No: 8",
+        "city": "Ankara",
+        "postal_code": "06500",
+        "country": "Turkey"
+      },
+      "phone": "+90 532 234 5678",
+      "orders": [
+        {
+          "order_id": 1003,
+          "product_id": 2,
+          "quantity": 1,
+          "total_price": 899.5,
+          "order_date": "2024-10-05"
+        },
+        {
+          "order_id": 1004,
+          "product_id": 5,
+          "quantity": 3,
+          "total_price": 450,
+          "order_date": "2024-07-20"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mehmet Kaya",
+      "email": "mehmet.kaya@example.com",
+      "password": "hashed_password_3",
+      "address": {
+        "street": "Barbaros Bulvarı No: 45",
+        "city": "Izmir",
+        "postal_code": "35000",
+        "country": "Turkey"
+      },
+      "phone": "+90 533 345 6789",
+      "orders": [
+        {
+          "order_id": 1005,
+          "product_id": 3,
+          "quantity": 2,
+          "total_price": 2399.98,
+          "order_date": "2024-11-12"
+        },
+        {
+          "order_id": 1006,
+          "product_id": 6,
+          "quantity": 1,
+          "total_price": 199.99,
+          "order_date": "2024-06-30"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Zeynep Çelik",
+      "email": "zeynep.celik@example.com",
+      "password": "hashed_password_4",
+      "address": {
+        "street": "İnönü Cad. No: 22",
+        "city": "Bursa",
+        "postal_code": "16000",
+        "country": "Turkey"
+      },
+      "phone": "+90 534 456 7890",
+      "orders": [
+        {
+          "order_id": 1007,
+          "product_id": 7,
+          "quantity": 1,
+          "total_price": 1599,
+          "order_date": "2024-09-25"
+        },
+        {
+          "order_id": 1008,
+          "product_id": 8,
+          "quantity": 4,
+          "total_price": 320,
+          "order_date": "2024-08-02"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Elif Kaya",
+      "email": "elif.kaya@example.com",
+      "password": "hashed_password_2",
+      "address": {
+        "street": "İstiklal Mah. 123. Sok. No: 45",
+        "city": "Ankara",
+        "postal_code": "06000",
+        "country": "Turkey"
+      },
+      "phone": "+90 532 654 3210",
+      "orders": [
+        {
+          "order_id": 1003,
+          "product_id": 3,
+          "quantity": 1,
+          "total_price": 349.99,
+          "order_date": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Mehmet Demir",
+      "email": "mehmet.demir@example.com",
+      "password": "hashed_password_3",
+      "address": {
+        "street": "Mimar Sinan Bulv. No: 78",
+        "city": "Izmir",
+        "postal_code": "35000",
+        "country": "Turkey"
+      },
+      "phone": "+90 542 987 6543",
+      "orders": []
+    },
+    {
+      "id": "8",
+      "name": "Zeynep Aksoy",
+      "email": "zeynep.aksoy@example.com",
+      "password": "hashed_password_4",
+      "address": {
+        "street": "Bahçelievler Mah. Gül Sok. No: 12",
+        "city": "İzmir",
+        "postal_code": "35400",
+        "country": "Turkey"
+      },
+      "phone": "+90 535 789 1234",
+      "orders": [
+        {
+          "order_id": 1005,
+          "product_id": 2,
+          "quantity": 1,
+          "total_price": 999.99,
+          "order_date": "2024-09-05"
+        },
+        {
+          "order_id": 1006,
+          "product_id": 6,
+          "quantity": 1,
+          "total_price": 599.99,
+          "order_date": "2024-10-12"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Burak Yılmaz",
+      "email": "burak.yilmaz@example.com",
+      "password": "hashed_password_5",
+      "address": {
+        "street": "Cumhuriyet Cad. 56/3",
+        "city": "Bursa",
+        "postal_code": "16100",
+        "country": "Turkey"
+      },
+      "phone": "+90 544 321 8765",
+      "orders": []
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1001,
+      "user_id": 1,
+      "order_date": "2024-09-10",
+      "status": "Shipped",
+      "total_price": 1299.99,
+      "shipping_address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 1,
+          "name": "Apple iPhone 14",
+          "quantity": 1,
+          "price": 1299.99
+        }
+      ],
+      "id": "2640"
+    },
+    {
+      "order_id": 1002,
+      "user_id": 1,
+      "order_date": "2024-09-15",
+      "status": "Delivered",
+      "total_price": 299.98,
+      "shipping_address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 4,
+          "name": "Nike Air Max 270",
+          "quantity": 2,
+          "price": 149.99
+        }
+      ],
+      "id": "e9d8"
+    },
+    {
+      "order_id": 1003,
+      "user_id": 2,
+      "order_date": "2024-09-22",
+      "status": "Processing",
+      "total_price": 349.99,
+      "shipping_address": {
+        "street": "İstiklal Mah. 123. Sok. No: 45",
+        "city": "Ankara",
+        "postal_code": "06000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 3,
+          "name": "Sony WH-1000XM5 Headphones",
+          "quantity": 1,
+          "price": 349.99
+        },
+        {
+          "product_id": 5,
+          "name": "Adidas Ultraboost 22",
+          "quantity": 3,
+          "price": 180
+        }
+      ],
+      "id": "a863"
+    },
+    {
+      "order_id": 1004,
+      "user_id": 4,
+      "order_date": "2024-10-01",
+      "status": "Delivered",
+      "total_price": 180,
+      "shipping_address": {
+        "street": "Kordonboyu Mah. Sahil Yolu Cad. No: 22",
+        "city": "Antalya",
+        "postal_code": "07000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 5,
+          "name": "Adidas Ultraboost 22",
+          "quantity": 1,
+          "price": 180
+        }
+      ],
+      "id": "c3a7"
+    }
+  ]
+}
