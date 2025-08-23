@@ -43,9 +43,11 @@ const CategoryChart: FC = async () => {
   };
 
   return (
-    <div className="bg-white rounded-lg p-5 shadow-md size-full pb-16">
+    <div className="bg-white rounded-lg px-3 md:px-5 py-5 shadow-md w-full max-w-full overflow-hidden box-border">
       <h2 className="subtitle mb-5">Category</h2>
-      <DoughnutGraph data={data} />
+      <div className="relative h-60 md:h-80 lg:h-96 w-full max-w-full box-border">
+        <DoughnutGraph data={data} />
+      </div>
     </div>
   );
 };

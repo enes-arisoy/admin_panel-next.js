@@ -23,7 +23,7 @@ const NavLink: FC<Props> = ({ item, isOpen }) => {
         {item.icon}
       </div>
       <span
-        className={`whitespace-nowrap ${
+        className={`whitespace-nowrap  ${
           isOpen ? "block" : "hidden"
         } transition duration-300`}
       >

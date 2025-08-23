@@ -10,11 +10,11 @@
       "reviews_count": 0,
       "category": "Electronics",
       "image_url": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2024/09/Samsung-Galaxy-S25-Plus.png?fit=1200%2C675&ssl=1",
-      "description": "6.6-inch display, Snapdragon 8 Gen 2, triple 50MP camera system."
+      "description": "6.6-inch display, Snapdragon 8 Gen 2, triple 50MP camera system. dfsdfs"
     },
     {
       "id": "3",
-      "name": "Sony WH-1000XM5 Headphones",
+      "name": "Sony WH-1000XM5 Headphones 12",
       "category": "Accessories",
       "price": 749.99,
       "stock": 40,
@@ -34,31 +34,7 @@
       "image_url": "https://cdn.fleetfeet.com/a:1.3333333333333-f:cover-w:1200/assets/adidasultraboost.jpeg?s=ae640b72",
       "rating": 4.8,
       "reviews_count": 0,
-      "brand": "Adidas"
-    },
-    {
-      "id": "6",
-      "name": "Dyson V11 Vacuum Cleaner",
-      "category": "Home",
-      "price": 599.99,
-      "stock": 15,
-      "description": "Powerful suction, LCD screen, up to 60 minutes of run time.",
-      "image_url": "https://i5.walmartimages.com/seo/Dyson-V11-Extra-Cordless-Vacuum-Cleaner-Iron-New_39f381d3-b4f7-49fa-904c-12c3e61587cc.d655e190dfe4ee597593e8c3dd70e5c5.jpeg",
-      "rating": 4.9,
-      "reviews_count": 0,
-      "brand": "Dyson"
-    },
-    {
-      "id": "7",
-      "name": "LG 65-Inch 6K Smart TV",
-      "category": "Electronics",
-      "price": 999.98,
-      "stock": 20,
-      "description": "65-inch OLED display, webOS, Dolby Atmos sound.",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZvou5SlzprWZKrP0ZeTcCTXeAxX-YkEoYg&s",
-      "rating": 4.7,
-      "reviews_count": 0,
-      "brand": "LG"
+      "brand": "Adidas forest"
     },
     {
       "id": "43ae",
@@ -95,6 +71,18 @@
       "category": "Electronics",
       "image_url": "https://images.samsung.com/tr/smartphones/galaxy-s25-ultra/buy/product_color_black_MO.png?imbypass=true",
       "description": "bu telefon oldukça...."
+    },
+    {
+      "id": "237d",
+      "name": "Samsung Galaxy S27+",
+      "brand": "Samsung",
+      "price": 345345,
+      "category": "Electronics",
+      "image_url": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2024/09/Samsung-Galaxy-S25-Plus.png?fit=1200%2C675&ssl=1",
+      "description": "wregwergwertgwtrg rgewrgwertgwre",
+      "stock": 1,
+      "rating": 4,
+      "reviews_count": 0
     }
   ],
   "users": [
@@ -237,20 +225,6 @@
       ]
     },
     {
-      "id": "7",
-      "name": "Mehmet Demir",
-      "email": "mehmet.demir@example.com",
-      "password": "hashed_password_3",
-      "address": {
-        "street": "Mimar Sinan Bulv. No: 78",
-        "city": "Izmir",
-        "postal_code": "35000",
-        "country": "Turkey"
-      },
-      "phone": "+90 542 987 6543",
-      "orders": []
-    },
-    {
       "id": "8",
       "name": "Zeynep Aksoy",
       "email": "zeynep.aksoy@example.com",
@@ -278,20 +252,6 @@
           "order_date": "2024-10-12"
         }
       ]
-    },
-    {
-      "id": "9",
-      "name": "Burak Yılmaz",
-      "email": "burak.yilmaz@example.com",
-      "password": "hashed_password_5",
-      "address": {
-        "street": "Cumhuriyet Cad. 56/3",
-        "city": "Bursa",
-        "postal_code": "16100",
-        "country": "Turkey"
-      },
-      "phone": "+90 544 321 8765",
-      "orders": []
     }
   ],
   "orders": [

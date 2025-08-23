@@ -9,7 +9,13 @@ interface Props {
 }
 
 const LineGraph: FC<Props> = ({ data }) => {
-  return <Line data={data} />;
+  return (
+    <Line
+      data={data}
+      options={{ responsive: true, maintainAspectRatio: false }}
+      style={{ width: "100%", height: "100%", display: "block" }}
+    />
+  );
 };
 
 export default LineGraph;

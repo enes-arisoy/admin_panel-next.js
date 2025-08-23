@@ -10,7 +10,13 @@ interface Props {
 }
 
 const DoughnutGraph: FC<Props> = ({ data }) => {
-  return <Doughnut data={data} />;
+  return (
+    <Doughnut
+      data={data}
+      options={{ responsive: true, maintainAspectRatio: false }}
+      style={{ width: "100%", height: "100%", display: "block" }}
+    />
+  );
 };
 
 export default DoughnutGraph;

@@ -41,10 +41,10 @@
 - **ESLint** - Code linting
 ---
 
-<p>Made with ❤️ and ☕ by the Admin Panel Team</p>
-
 📁 **Repository**
 [GitHub](https://bit.ly/3JBeuFW)
+---
 
 🎥 **Demo Video**
-![Watch Demo](admin.gif)
+![Watch Demo](adminpanel.gif)
+---

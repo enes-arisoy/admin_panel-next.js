@@ -9,16 +9,16 @@ const Header: FC = () => {
       <Input />
 
       <div className="flex gap-5 items-center">
-        <BiSolidBellRing className="text-xl text-zinc-700 cursor-pointer" />
-        <div className="flex gap-3 items-center">
+        <BiSolidBellRing className=" text-xl text-zinc-700 cursor-pointer" />
+        <div className="flex gap-3 items-center ">
           <Image
             src={avatar}
             alt="avatar"
             width={50}
             height={50}
-            className="size-14 rounded-full"
+            className="size-12 sm:size-14 rounded-full"
           />
-          <div>
+          <div >
             <p className="font-semibold text-black">Enes Arısoy</p>
             <p className="text-sm text-zinc-500">Admin</p>
           </div>
