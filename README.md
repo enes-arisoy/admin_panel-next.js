@@ -38,7 +38,6 @@ A modern and user-friendly admin panel - easily manage users, products, and orde
 - **React Toastify** - Toast notifications
 - **TypeScript** - Type safety
 - **Tailwind CSS** - Utility-first CSS framework
-- **ESLint** - Code linting
 ---
 
 📁 **Repository**
