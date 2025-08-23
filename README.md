@@ -46,5 +46,5 @@
 ---
 
 🎥 **Demo Video**
-![Watch Demo](adminpanel.gif)
+![](adminpanel.gif)
 ---
