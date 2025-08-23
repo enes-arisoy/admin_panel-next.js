@@ -1,6 +1,6 @@
 # 🚀 Admin Panel - Next.js Dashboard
 
-> A modern and user-friendly admin panel - easily manage users, products, and orders!
+A modern and user-friendly admin panel - easily manage users, products, and orders!
 ---
 
 ## ✨ Features
